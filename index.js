@@ -75,7 +75,7 @@ try{
         headers: {"X-MBX-APIKEY": API_KEY}
     } 
 )
-console.log("CHEGOU? ")
+
 console.log(data)
 
 }catch(err){
